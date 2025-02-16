@@ -6,7 +6,8 @@ La **Descomposición en Valores Singulares** (SVD, por sus siglas en inglés) es
 
 Esta descomposición se expresa matemáticamente como:
 
-\[ A = U \cdot \Sigma \cdot V^* \]
+![imagen](https://github.com/user-attachments/assets/f25eccb6-9caa-41cb-bd15-f77c53951825)
+
 
 donde \( A \) es la matriz original.
 
